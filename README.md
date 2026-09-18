@@ -1,6 +1,5 @@
 # Paisabazaar-credit-risk-dashboard
 Power BI dashboard analyzing credit risk across 12,500 Paisabazaar customers — score distribution, risk drivers, and behavior trends from 100K monthly records.
-# Paisabazaar Credit Risk Dashboard
 
 ## Overview
 An interactive Power BI dashboard analyzing credit risk across Paisabazaar's customer base, built to help stakeholders understand how income, debt, payment behavior, and demographics relate to credit-score outcomes.
